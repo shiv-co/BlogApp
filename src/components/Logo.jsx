@@ -1,5 +1,5 @@
 import React from 'react'
-import logoImage from './Logo.png'
+import logoImage from './Logo1.png'
 
 function Logo({width ='50px'}) {
   return (
@@ -10,3 +10,4 @@ function Logo({width ='50px'}) {
 }
 
 export default Logo
+
